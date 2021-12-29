@@ -1,32 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T16:47:32.393Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="_92PMYs8-HBY2EMjCmw1" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T02:50:28.814Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="HAzSAWeKB5_9iaJZ0mVE" version="16.1.0" type="github">
   <diagram id="Xk7DdqwGz21JMi8Jqe_0" name="Page-1">
     <mxGraphModel dx="946" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3JeaJtggGYgkC80GPTok-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3JeaJtggGYgkC80GPTok-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="30" width="330" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="3JeaJtggGYgkC80GPTok-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="py5BAItJTNhBM44P2KK3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3JeaJtggGYgkC80GPTok-2" target="py5BAItJTNhBM44P2KK3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3JeaJtggGYgkC80GPTok-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="320" width="640" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3JeaJtggGYgkC80GPTok-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3JeaJtggGYgkC80GPTok-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="410" width="640" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3JeaJtggGYgkC80GPTok-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3JeaJtggGYgkC80GPTok-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="30" width="120" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="3JeaJtggGYgkC80GPTok-7" value="code editor&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3JeaJtggGYgkC80GPTok-7" value="code editor&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="422.5" y="30" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3JeaJtggGYgkC80GPTok-10" value="promiseExample()&lt;br&gt;ex:-fetch&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="80" width="146" height="60" as="geometry" />
+        <mxCell id="3JeaJtggGYgkC80GPTok-10" value="fetch().then(func1)&lt;br&gt;func1 =(res)=&amp;gt;{}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="402" y="120" width="146" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3JeaJtggGYgkC80GPTok-11" value="setTimeOut()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="426.5" y="155" width="97" height="30" as="geometry" />
+        <mxCell id="3JeaJtggGYgkC80GPTok-11" value="setTimeOut()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="426.5" y="60" width="97" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3JeaJtggGYgkC80GPTok-12" value="normal code any function&lt;br&gt;function(){console.log(&#39;hello&#39;)}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3JeaJtggGYgkC80GPTok-12" value="normal code any function&lt;br&gt;function(){console.log(&#39;hello&#39;)}()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="230" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="py5BAItJTNhBM44P2KK3-2" value="promises queue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="335" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="py5BAItJTNhBM44P2KK3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="py5BAItJTNhBM44P2KK3-3" target="py5BAItJTNhBM44P2KK3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="py5BAItJTNhBM44P2KK3-3" value="set time out &amp;amp;&amp;amp; set interval queue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="425" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="py5BAItJTNhBM44P2KK3-5" value="call Back queues" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="py5BAItJTNhBM44P2KK3-8" value="call stack" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

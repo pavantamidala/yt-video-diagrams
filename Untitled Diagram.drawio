@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T01:55:14.995Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Vf3MFiWnRJ7ciewqAVZb" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T01:57:02.052Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="dnyLn2DC72dmdKKzDd-s" version="16.1.0" type="github">
   <diagram id="Xk7DdqwGz21JMi8Jqe_0" name="Page-1">
     <mxGraphModel dx="946" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="3JeaJtggGYgkC80GPTok-10" value="promises&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="402" y="120" width="146" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3JeaJtggGYgkC80GPTok-11" value="setTimeOut()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="3JeaJtggGYgkC80GPTok-11" value="setTimeOut(),setInterval()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="426.5" y="60" width="97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3JeaJtggGYgkC80GPTok-12" value="normal code any function&lt;br&gt;function(){console.log(&#39;hello&#39;)}()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-22T02:40:17.189Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="vZt2cAByupwgtMJMMxWA" version="18.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-05T08:01:13.138Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="30r1_PV5ejiIiUlrYies" version="18.1.1" type="github">
   <diagram id="1lLFlO3HAVAeV1onTnx8" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -187,11 +187,33 @@
         <mxCell id="rKNYrbgTE7lB_GM9v4Dw-33" value="&lt;h1&gt;Movie Recommendations&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="279" y="1414" width="301" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="78XsNP1WTYHnZIkMp5it-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78XsNP1WTYHnZIkMp5it-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="1950" width="760" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="78XsNP1WTYHnZIkMp5it-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78XsNP1WTYHnZIkMp5it-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="2030" width="730" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="iAN2-FVbkkkvdjpf09Yp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2420" width="780" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="iAN2-FVbkkkvdjpf09Yp-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2430" width="750" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iAN2-FVbkkkvdjpf09Yp-4" value="Top ten netflix moives" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=left;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0;spacingLeft=3" vertex="1" parent="1">
+          <mxGeometry x="50" y="2440" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iAN2-FVbkkkvdjpf09Yp-5" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.x;strokeColor=#596780;strokeWidth=2" vertex="1" parent="iAN2-FVbkkkvdjpf09Yp-4">
+          <mxGeometry x="1" y="0.5" width="6" height="6" relative="1" as="geometry">
+            <mxPoint x="-11" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iAN2-FVbkkkvdjpf09Yp-6" value="Top ten netflix moives" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=left;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0;spacingLeft=3" vertex="1" parent="1">
+          <mxGeometry x="200" y="2440" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iAN2-FVbkkkvdjpf09Yp-7" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.x;strokeColor=#596780;strokeWidth=2" vertex="1" parent="iAN2-FVbkkkvdjpf09Yp-6">
+          <mxGeometry x="1" y="0.5" width="6" height="6" relative="1" as="geometry">
+            <mxPoint x="-11" y="-3" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
